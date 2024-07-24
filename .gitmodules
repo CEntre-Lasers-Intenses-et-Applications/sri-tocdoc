@@ -1,6 +1,0 @@
-[submodule "themes/hugo-astatine-theme"]
-	path = themes/hugo-astatine-theme
-	url = https://github.com/hugcis/hugo-astatine-theme
-[submodule "themes/hugo-xterm"]
-	path = themes/hugo-xterm
-	url = https://github.com/manid2/hugo-xterm
