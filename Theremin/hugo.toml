@@ -1,0 +1,9 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+#theme = 'astatine'
+theme = "ace-documentation"
+#theme= 'DocuAPI'
+#theme = 'BdxINP'
+#theme = 'ananke'
+#theme = "hugo-xterm"
